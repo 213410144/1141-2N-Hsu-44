@@ -24,7 +24,7 @@
 ![](w01-p2-2.png)
  
 ```
-
+c5c692c 213410144       Sun Sep 21 22:37:15 2025 +0800   W01-P2: Use vite to create a new React app
 ```
 ### W01-logs: git logs of W01 and share to htchung@gms.tku.edu.tw (teacher) and sian-0018 (TA)
  
