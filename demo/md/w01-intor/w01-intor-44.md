@@ -1,6 +1,6 @@
 [Github URL](https://github.com/213410144/1141-2N-Hsu-44.git)
 
-### Video: W01-P1: Use create-react-app to create a new React app
+###  W01-P1: Use create-react-app to create a new React app
  
 #### => show how the index.html page being rendered
  
@@ -13,7 +13,7 @@
 ```
 
 ```
-### Video: W01-P2: Use vite to create a new React app
+###  W01-P2: Use vite to create a new React app
  
 #### => show how the index.html page being rendered
  
