@@ -13,5 +13,5 @@
 ![](w02-p1-3.png)
  
 ```
-ee762c0 htchung Wed Sep 24 20:05:59 2025 +0800  W02-P1: App_xx with 6 books
+26cd0bf 213410144       Sat Sep 27 00:44:05 2025 +0800  W02-P1: App_xx with 6 books
 ```
