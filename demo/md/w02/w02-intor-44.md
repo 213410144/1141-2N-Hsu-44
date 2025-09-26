@@ -1,6 +1,6 @@
 [Github URL](https://github.com/213410144/1141-2N-Hsu-44.git)
 
-Video: W02-P1: App_xx with 6 books
+###  W02-P1: App_xx with 6 books
  
 #### => Chrome demo
  
