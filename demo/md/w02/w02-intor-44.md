@@ -13,5 +13,14 @@
 ![](w02-p1-3.png)
  
 ```
-26cd0bf 213410144       Sat Sep 27 00:44:05 2025 +0800  W02-P1: App_xx with 6 books
+85ab221 213410144       Sat Sep 27 00:47:06 2025 +0800  W02-P1: App_xx with 6 books
+```
+### W02-P2: refine code in W01-P1
+ 
+#### => Chrome demo use React DevTools
+ 
+![](w02-p2.png)
+ 
+```
+
 ```
