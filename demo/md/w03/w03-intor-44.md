@@ -18,7 +18,7 @@
 ![](w03-p2.png)
  
 ```
-
+4cd133f 213410144       Wed Oct 1 20:32:00 2025 +0800   W03-P2: Implement route /static_xx for BlogStaticPage_xx
 ```
 
 W03-P3: Implement route /localjson_xx by showing blogs from local json
