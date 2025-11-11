@@ -23,7 +23,7 @@
 ![](w04-p2-3.png)
  
 ```
-
+3b16dc7 213410144       Tue Nov 11 22:45:36 2025 +0800  W04-P2: Create blog_xx table with 3 data, implement route /api/blog_xx to return a json array with 3 data
 ```
 
 ### W04-P3: from client side to get json data from Node
