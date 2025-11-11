@@ -23,7 +23,7 @@
 ![](w04-p2-3.png)
  
 ```
-e2f2f77 htchung Wed Oct 8 19:50:35 2025 +0800   W04-P2: Create blog_xx table with 3 data, implement route /api/blog_xx to return a json array with 3 data
+
 ```
 
 ### W04-P3: from client side to get json data from Node
@@ -37,5 +37,5 @@ e2f2f77 htchung Wed Oct 8 19:50:35 2025 +0800   W04-P2: Create blog_xx table wit
 ![](w04-p3-2.png)
  
 ```
-c65cccc htchung Wed Oct 8 20:46:24 2025 +0800   W04-P3: from client side to get json data from Node
+
 ```
