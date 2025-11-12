@@ -29,7 +29,7 @@ c8f1fa0 213410144       Wed Nov 12 17:45:42 2025 +0800  W05-P1: Create Navbar_xx
 [Vercel URL](https://1141-2-n-demo-vercel-hsu-44.vercel.app/)
  
 ```
-
+2686d47 213410144       Wed Nov 12 17:46:13 2025 +0800  05-P2: Deploy the code to Vercel
 ```
 ###W05-P3: Use tailwind css to show HomePage_xx in Vercel
  
