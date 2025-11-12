@@ -44,5 +44,5 @@ c8f1fa0 213410144       Wed Nov 12 17:45:42 2025 +0800  W05-P1: Create Navbar_xx
 ![](w05-p4.png)
  
 ```
-
+42862c4 213410144       Wed Nov 12 17:47:22 2025 +0800  W05-P4: Show BookListPage_xx using styled components
 ```
