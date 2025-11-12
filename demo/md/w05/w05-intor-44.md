@@ -31,12 +31,12 @@ c8f1fa0 213410144       Wed Nov 12 17:45:42 2025 +0800  W05-P1: Create Navbar_xx
 ```
 2686d47 213410144       Wed Nov 12 17:46:13 2025 +0800  05-P2: Deploy the code to Vercel
 ```
-###W05-P3: Use tailwind css to show HomePage_xx in Vercel
+### W05-P3: Use tailwind css to show HomePage_xx in Vercel
  
 ![](w05-p3.png)
  
 ```
-
+2a5c8e1 213410144       Wed Nov 12 17:46:47 2025 +0800  W05-P3: Use tailwind css to show HomePage_xx in Vercel
 ```
 
 ### W05-P4: Show BookListPage_xx using styled components
