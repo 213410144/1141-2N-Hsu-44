@@ -13,3 +13,36 @@
 ```
 
 ```
+### W05-P2: Deploy the code to Vercel
+ 
+#### => Show BlogLocalJson in Vercel
+ 
+![](w05-p2-1.png)
+ 
+#### => Github repo with Vercel link
+ 
+![](w05-p2-2.png)
+ 
+#### => Github demo_vecel repo and Vercel URL
+ 
+[Github URL for Vercel](https://github.com/213410144/1141-2N-Hsu-44.git)
+[Vercel URL](https://1141-2-n-demo-vercel-hsu-44.vercel.app/)
+ 
+```
+
+```
+###W05-P3: Use tailwind css to show HomePage_xx in Vercel
+ 
+![](w05-p3.png)
+ 
+```
+
+```
+
+### W05-P4: Show BookListPage_xx using styled components
+ 
+![](w05-p4.png)
+ 
+```
+
+```
