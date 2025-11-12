@@ -11,7 +11,7 @@
 ![](w05-p1-2.png)
  
 ```
-
+c8f1fa0 213410144       Wed Nov 12 17:45:42 2025 +0800  W05-P1: Create Navbar_xx using styled components, and show BlogNodePage_xx
 ```
 ### W05-P2: Deploy the code to Vercel
  
