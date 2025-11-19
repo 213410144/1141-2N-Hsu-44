@@ -1,12 +1,12 @@
 import React from 'react';
 
-const Homepage_44 = () => {
+const HomePage_44 = () => {
   return (
-    <div>
-      <h1>Homepage_44</h1>
-      <h2>HSU,213410144</h2>
+    <div className='flex flex-col items-center justify-center'>
+      <h1 className='text-2xl text-purple-700'>HomePage_44</h1>
+      <h2 className='text-xl'>hsu, 213410144</h2>
     </div>
   );
-}
+};
 
-export default Homepage_44;
+export default HomePage_44;

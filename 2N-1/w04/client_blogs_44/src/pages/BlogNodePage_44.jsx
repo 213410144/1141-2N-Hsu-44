@@ -1,56 +1,39 @@
-import { useEffect, useState } from 'react';
-// import blogData_44 from '../assets/data/blogData.json';
+/* eslint-disable no-unused-vars */
+import { useState, useEffect } from 'react';
 import Blog_44 from '../components/Blog_44';
 
 const api_url = 'http://localhost:3000/api/blog_44';
 
 const BlogNodePage_44 = () => {
-  const [name, setName] = useState('hsu');
-  const [id, setId] = useState(213410144);
-
-  // ❗ 正確：預設值應為空陣列
-  const [blog_44, setBlogs_44] = useState([]);
+  const [name, setName] = useState('zihyinhsu');
+  const [id, setId] = useState(913410044);
+  const [blogs_44, setBlogs_44] = useState([]);
 
   const fetchBlogFromNodeServer = async () => {
     try {
       const response = await fetch(api_url);
       const data = await response.json();
-      console.log('blog', data);
-
-      // ❗ 正確：使用 setBlogs_44
       setBlogs_44(data);
+      console.log(data)
     } catch (error) {
-      console.log(error);
+      console.error( error);
     }
-  };
-
+  }
   useEffect(() => {
     fetchBlogFromNodeServer();
   }, []);
 
   return (
     <>
-      <section className="blog">
-        <div className="section-title">
+      <section className='blogs'>
+        <div className='section-title'>
           <h2>
-            blogs from node server -- {name}, {id}{' '}
+            Blogs Form Node - {name}, {id}
           </h2>
         </div>
-
-        <div className="blog-center">
-          {blog_44.map((item) => {
-            const { id, title, descrip, category, img } = item;
-
-            return (
-              <Blog_44
-                key={id}
-                id={id}
-                title={title}
-                descrip={descrip}
-                category={category}
-                img={img}
-              />
-            );
+        <div className='blogs-center'>
+          {blogs_44.map((item) => {
+            return <Blog_44 key={item.id} item={item} />;
           })}
         </div>
       </section>
@@ -59,4 +42,3 @@ const BlogNodePage_44 = () => {
 };
 
 export default BlogNodePage_44;
-

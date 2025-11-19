@@ -1,25 +1,21 @@
-import {FaGlobe} from 'react-icons/fa6';
-import {FaMugSaucer} from 'react-icons/fa6';
+import React from 'react';
+import { FaGlobe, FaMugSaucer } from 'react-icons/fa6';
 
-const Blog_44 = ({id, img, category, title, descrip }) => {
+const Blog_44 = ({ item }) => {
   return (
-        <article key={id} className="blog">
-          <img
-            src={img}
-            alt="Coffee photo"
-            className="img blog-img"
-          />
-          <div className="blog-content">
-            <span>{category}
-              {category === 'lifestyle' ? <FaMugSaucer/>:
-              <FaGlobe />}
-              </span>
-            <h3>{title}</h3>
-            <p>{descrip}</p>
-            <a href="#">read more</a>
-          </div>
-        </article>
+    <article key={item.id} className='blog'>
+      <img src={item.img} alt={item.title} className='img blog-img' />
+      <div className='blog-content'>
+        <span>
+          {item.category}
+          {item.category === 'travel' ? <FaGlobe /> : <FaMugSaucer />}
+        </span>
+        <h3>{item.title}</h3>
+        <p>{item.descrip}</p>
+        <a href='#'>read more</a>
+      </div>
+    </article>
   );
-}
+};
 
 export default Blog_44;

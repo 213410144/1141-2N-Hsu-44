@@ -1,5 +1,5 @@
 {
-  "name": "w03-vite-app",
+  "name": "w03_blogs_44",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,12 +10,14 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "pg": "^8.16.3",
+    "@tailwindcss/vite": "^4.1.14",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
     "react-icons": "^5.5.0",
     "react-router-dom": "^7.9.3",
-    "sass": "^1.93.2"
+    "sass": "^1.93.2",
+    "styled-components": "^6.1.19",
+    "tailwindcss": "^4.1.14"
   },
   "devDependencies": {
     "@eslint/js": "^9.36.0",
